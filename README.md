@@ -1,1 +1,1 @@
-Scan Barcode or QR Code Using WebCam in Android studio
+Scan Barcode or QR code using webCam in Android studio
